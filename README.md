@@ -2,9 +2,10 @@
 Style Guide for writing code by Izabela Furdzik
 
 <!--
+theme, colors etc
 
-intle
-aliasy
+lang intl
+aliases (css, js)
 
 Write my own style guide CSS (like BEM, but better) - that’s why I need to learn:
 English
