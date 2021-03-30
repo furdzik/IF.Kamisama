@@ -2,7 +2,7 @@
 Style Guide for writing code by Izabela Furdzik
 
 <!--
-theme, colors etc
+theme, colors, typography etc
 
 lang intl
 aliases (css, js)
