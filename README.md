@@ -1,5 +1,5 @@
 # IF.StyleGuide
-Style Guide and good practice for writing code by Izabela Furdzik
+Style Guide and good practice for writing code by Izabela Furdzik [WIP]
 
 <!--
 theme, colors, typography etc
