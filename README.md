@@ -1,4 +1,4 @@
-# IF.StyleGuide
+# IF.StyleGuide [WIP]
 Style Guide and good practice for writing code by Izabela Furdzik [WIP]
 
 <!--
