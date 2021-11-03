@@ -1,4 +1,4 @@
-# IF.StyleGuide [WIP]
+# IF.Kamisama [WIP]
 Style Guide and good practice for writing code by Izabela Furdzik
 
 <!--
