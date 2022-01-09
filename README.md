@@ -1,32 +1,14 @@
-# IF.Kamisama [WIP]
+# IF.Kamisama
+
+[WORK IN PROGRESS]
+
 Style Guide and good practice for writing code by Izabela Furdzik
 
-<!--
-theme, colors, typography etc
+### Name origin
 
-lang intl
-aliases (css, js)
+**神様** /かみさま, kamisama/  
+That is mean 'God', 'ace', 'king', 'superior person'.
 
-Write my own style guide CSS (like BEM, but better) - that’s why I need to learn:
-English
-CSS Documentation - W3C
-BEM - understand
-Other metodologies - understand
-Understand what what is important for W3C, big and small companies, developers for a big/small projects
-How to publish it on GitHub
-How to add own rules or add new rules for cssLint etc.
+I chose this name because it reflects the seriousness of the guide style in every project.
 
-
-Structure
-Add CSS Lint for it, add folders, fils structure etc.
-Naming convention (https://cssguidelin.es/#bem-like-naming)
-BEM + SMACSS + OOCSS
-Ask for advice -> Emilia, Monika, Patrycjusz
-Inne
-https://www.smashingmagazine.com/2014/07/bem-methodology-for-small-projects/
-https://www.steveworkman.com/html5-2/standards/2009/classitis-the-new-css-disease/
-https://css-tricks.com/bem-101/
-https://gist.github.com/stephenway/a6145d9b4430e8c55a77
-
-
--->
+---
