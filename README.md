@@ -32,3 +32,8 @@ It is a programming style guide - a guide to conventions, styles, and best pract
 4. [JavaScript rules]()
 5. [React rules]()
 
+---
+
+### Linters for this style guide
+
+[IF.Mizenboushi](https://github.com/furdzik/IF.Mizenboushi)
